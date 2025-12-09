@@ -1,7 +1,7 @@
 # A* Pathfinding_Visualizer
 
 
-**📌 Project Overview**
+## **📌 Project Overview**
 
 This project is a visual demonstration of the A* search algorithm navigating through randomly generated mazes.
 It represents the early foundations of autonomy, the same principles used in robotics, drones, autonomous vehicles, and intelligent navigation systems.
@@ -9,7 +9,7 @@ It represents the early foundations of autonomy, the same principles used in rob
 Pathfinding, heuristics, and environment exploration form the backbone of autonomy. This project captures that process at a basic but meaningful level.
 
 
-**⚙️ What This Program Does**
+## **⚙️ What This Program Does**
 
 **Output**:
 A Tkinter window that shows:
@@ -31,7 +31,7 @@ A Tkinter window that shows:
 •Every execution gives a different maze and a different solution.
 
 
-**🧠 How It Works (Technical Breakdown)**
+## **🧠 How It Works (Technical Breakdown)**
 
 **Maze Construction**
 
@@ -64,7 +64,7 @@ The entire system works as a tight loop of:
 search → state output → visual update → next search step.
 
 
-**🌟 Features Demonstrated**
+## **🌟 Features Demonstrated**
 
 •Random maze generation (DFS-based)
 •A* pathfinding with heuristic evaluation
@@ -78,7 +78,7 @@ search → state output → visual update → next search step.
 •Consistent, deterministic path reconstruction logi
 
 
-**🎯 Why I Built This**
+## **🎯 Why I Built This**
 
 I wanted to take my first steps toward autonomy-related systems, the kind used in robotics, self-driving cars, drones, and intelligent agents.
 Pathfinding is one of the most fundamental building blocks of autonomy.
@@ -91,7 +91,7 @@ By building this project, I wanted to:
 •Strengthen my Python foundations through a real, algorithm heavy projects
 
 
-**🤖 AI Assistance Disclaimer**
+## **🤖 AI Assistance Disclaimer**
 
 •AI was used only for support, not for the algorithm itself.
 
@@ -110,7 +110,7 @@ By building this project, I wanted to:
 •Decide the architectural approach
 
 
-**▶️ How to Run the Program**
+## **▶️ How to Run the Program**
 
 Requirements:
 
