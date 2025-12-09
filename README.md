@@ -116,4 +116,4 @@ Requirements:
 
 •Python 3.x
 •Tkinter (usually bundled with Python)
-•**Run the script**:
+•**Run the script**: python A*_pathfinder.py
