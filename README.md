@@ -101,7 +101,7 @@ By building this project, I wanted to:
 •Strengthen my Python foundations through a real, algorithm heavy projects
 
 
-## **🤖 AI Assistance Disclaimer**
+## **AI Assistance Disclaimer**
 
 AI was used only for support, not for the algorithm itself.
 
