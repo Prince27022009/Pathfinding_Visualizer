@@ -1,7 +1,7 @@
 # A* Pathfinding_Visualizer
 
 
-## **📌 Project Overview**
+## **Project Overview**
 
 This project is a visual demonstration of the A* search algorithm navigating through randomly generated mazes.
 It represents the early foundations of autonomy, the same principles used in robotics, drones, autonomous vehicles, and intelligent navigation systems.
@@ -9,7 +9,7 @@ It represents the early foundations of autonomy, the same principles used in rob
 Pathfinding, heuristics, and environment exploration form the backbone of autonomy. This project captures that process at a basic but meaningful level.
 
 
-## **⚙️ What This Program Does**
+## **What This Program Does**
 
 **Output**:
 A Tkinter window that shows:
@@ -40,7 +40,7 @@ A Tkinter window that shows:
 •Every execution gives a different maze and a different solution.
 
 
-## **🧠 How It Works (Technical Breakdown)**
+## **How It Works (Technical Breakdown)**
 
 **Maze Construction**
 
@@ -84,30 +84,8 @@ The entire system works as a tight loop of:
 search → state output → visual update → next search step.
 
 
-## **🌟 Features Demonstrated**
 
-•Random maze generation (DFS-based)
-
-•A* pathfinding with heuristic evaluation
-
-•Smooth, frame by frame exploration animation
-
-•Cyan fading effect for visited cells
-
-•Final shortest-path rendering
-
-•Tkinter-based grid visualization
-
-•Step-wise generator logic for non-blocking UI
-
-•Clear separation of algorithm and animation layers
-
-•Fully automatic execution zero manual input needed
-
-•Consistent, deterministic path reconstruction logi
-
-
-## **🎯 Why I Built This**
+## **Why I Built This**
 
 I wanted to take my first steps toward autonomy-related systems, the kind used in robotics, self-driving cars, drones, and intelligent agents.
 Pathfinding is one of the most fundamental building blocks of autonomy.
@@ -137,18 +115,9 @@ AI was used only for support, not for the algorithm itself.
 
 •Polishing documentation and layout
 
-**AI did NOT:**
-
-•Design the logic
-
-•Create the maze algorithm
-
-•Create the A* implementation
-
-•Decide the architectural approach
 
 
-## **▶️ How to Run the Program**
+## **How to Run the Program**
 
 Requirements:
 
